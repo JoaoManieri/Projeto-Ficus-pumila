@@ -1,0 +1,1 @@
+Artificial intelligence that selects the most commented subjects and inserts an updated list on these subjects daily at 00:00h in the database used by the Ipê-branco app
